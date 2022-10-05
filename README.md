@@ -1,7 +1,7 @@
 l- 👋 Hi, I’m @rosepedrosa12
-- 👀 I’m interested in  linguagens de programação.
-- 🌱 I’m currently learning  linguagens de programação.
-- 💞️ I’m looking to collaborate com a educação em pensamento  computacional.
+- 👀 I’m interested in  programming language.
+- 🌱 I’m currently learning programming language
+- 💞️ I’m looking to collaborate with education in computational thinking.
 - 📫 rose.pedrosa@escola.pr.gov.br
 
 <!---
