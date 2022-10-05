@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rosepedrosa12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+l- 👋 Hi, I’m @rosepedrosa12
+- 👀 I’m interested in 
+- 🌱 I’m currently learning  
+- 💞️ I’m looking to collaborate com a educação em pensamento  computacional.
+- 📫 How to reach me .
 
 <!---
 rosepedrosa12/rosepedrosa12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
