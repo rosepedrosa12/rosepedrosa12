@@ -2,7 +2,7 @@ l- 👋 Hi, I’m @rosepedrosa12
 - 👀 I’m interested in  linguagens de programação.
 - 🌱 I’m currently learning  linguagens de programação.
 - 💞️ I’m looking to collaborate com a educação em pensamento  computacional.
-- 📫 How to reach me .
+- 📫 rose.pedrosa@escola.pr.gov.br
 
 <!---
 rosepedrosa12/rosepedrosa12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
